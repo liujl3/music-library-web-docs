@@ -31,7 +31,6 @@
 │          People.vue               // Assign 
 │          Upload.vue               // Assign people with dementia to carers
 ├─static                            // Static files
-│      .gitkeep
 └─theme                             // Custom theme of Element-UI
 ```
 
