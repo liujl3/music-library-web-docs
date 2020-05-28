@@ -1,4 +1,4 @@
-### Project structure
+### Project files
 
 ```
 │  index.html                       // Homepage, project entrance
