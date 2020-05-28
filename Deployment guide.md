@@ -5,6 +5,9 @@
 
 ### Build Setup
 
+Before starting the operation, you need to set the `baseURL` of `axios` to your API server address
+It is located at line 16 of the file [src](https://github.com/liujl3/music-library-web/tree/master/src)/[main.js](https://github.com/liujl3/music-library-web/blob/master/src/main.js).
+
 ```bash
 # install dependencies
 npm install
