@@ -28,8 +28,8 @@
 │          Manage.vue               // Member management
 │          Music.vue                // File management and music-based category management
 │          NotFound.vue             // Match any non-existent path
-│          People.vue               // Assign 
-│          Upload.vue               // Assign people with dementia to carers
+│          People.vue               // Assign people with dementia to carers
+│          Upload.vue               // Upload new music file
 ├─static                            // Static files
 └─theme                             // Custom theme of Element-UI
 ```
